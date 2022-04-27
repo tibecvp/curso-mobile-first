@@ -458,7 +458,7 @@ main {
 .main-plans-container {
     width: 100%;
     min-width: 320px;
-    padding-bottom: 64px;
+    padding-bottom: 40px;
     text-align: center;
 }
 
@@ -467,7 +467,6 @@ main {
     min-width: 288px;
     height: auto;
     margin: 0 auto;
-    margin-bottom: 50px;
 }
 
 .plans--title h2 {
