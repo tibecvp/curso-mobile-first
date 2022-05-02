@@ -164,18 +164,6 @@ main {
     color: var(--dark-grey);
 }
 
-/* 
-.plans-container--slider {
-    display: flex;
-    gap: 8px;
-    height: 316px;
-    overflow-x: scroll;
-    overscroll-behavior-x: contain;
-    scroll-snap-type: x proximity;
-    padding: 0 8px;
-}
-*/
-
 .main-tables-container {
     display: flex;
     padding: 0 30px;
